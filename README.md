@@ -405,6 +405,8 @@ Special thanks to:
 
 **Made with ❤️ by the WhitePaper Team**
 
+Feel free to reach out for any queries or suggestions at [ygowthamr@gmail.com]. 😊
+
 ⭐ **Star this repo if it helped you!** ⭐
 
 [🔝 Back to Top](#-whitepaper)
